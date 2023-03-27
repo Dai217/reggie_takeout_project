@@ -3,16 +3,18 @@
 ## 瑞吉外卖
 
 &emsp;&emsp;本项目是参考B站黑马程序员的《瑞吉外卖》教程所实现的一个SpringBoot+MybatisPlus+Mysql技术栈的前后端分离外卖管理系统。
-  尚未适配redis
+- 视频教程：黑马程序员-瑞吉外卖项目[https://www.bilibili.com/video/BV13a411q753](https://www.bilibili.com/video/BV13a411q753)
 
+/**
+  尚未适配redis,可以使用redis实现菜单、短信等业务的缓存
+**/
 
 
 - 前台预览
+frontstore
 
-![前台](https://github.com/codermast/Takeout-food/blob/master/resource/%E6%88%AA%E5%B1%8F2022-12-01%2019.32.09.png?raw=true)
 - 后台预览
-
-![后台](https://github.com/codermast/Takeout-food/blob/master/resource/%E6%88%AA%E5%B1%8F2022-12-01%2019.37.24.png?raw=true)
+backoffice
 
 
 ## 项目模块
@@ -40,6 +42,3 @@
 - MybatisPlus
 - Mysql
 - Session
-
-
-- 视频教程：黑马程序员-瑞吉外卖项目[https://www.bilibili.com/video/BV13a411q753](https://www.bilibili.com/video/BV13a411q753)
