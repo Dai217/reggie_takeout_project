@@ -18,14 +18,14 @@ backoffice
 
 
 ## 项目模块
-- 🔺后台
+- 后台
   - [x] 登录模块
   - [x] 员工管理
   - [x] 分类管理
   - [x] 菜品管理
   - [x] 套餐管理
   - [x] 订单管理
-- 🔻前台
+- 前台
   - [x] 用户模块
   - [x] 购物车模块
   - [x] 地址模块
@@ -35,7 +35,7 @@ backoffice
  访问后台：[localhost:8080/backend/page/login.html](http://localhost:8080/backend/page/login.html)即可
  访问前台：[localhost:8080/front/page/login.html](http://localhost:8080/front/page/login.html)
 
-#### 技术栈
+### 技术栈
 - SpringBoot
 - MybatisPlus
 - Mysql
